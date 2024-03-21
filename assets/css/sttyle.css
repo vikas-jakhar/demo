@@ -148,7 +148,7 @@ section::after {
 .btn-buy:hover {
     color: black;
     background-color: #FFFFFF;
-    box-shadow: 0 0 10px #3B945E;
+    box-shadow: 0 0 20px #3B945E;
 }
 
 .mt-10 {
