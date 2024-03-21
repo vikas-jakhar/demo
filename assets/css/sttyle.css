@@ -155,7 +155,12 @@ section::after {
     margin-top: 10px;
 }
 
+.icon{
+    display: grid;
+    place-items: center;
+}
+
 .icon:hover {
-    /* box-shadow: 0 0 10px blue;
-    border-radius: 50%; */
+    box-shadow: 0 0 10px blue;
+    border-radius: 50%;
 }
